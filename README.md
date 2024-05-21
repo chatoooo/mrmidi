@@ -18,7 +18,7 @@ The PCB is optimzied for JLCPCB. Use the gerber files from the latest release.
 |R2 |180R 0207|For LED D2|
 |R3 |4K7 0207 |signal for Q1|
 |R4 |220R 0207|MIDI interface|
-|R5 |220R 0208|MIDI interface|
+|R5 |220R 0207|MIDI interface|
 |C1 |100nF 5mm|bypass|
 |Q1 |BS170_D26Z|for driving LED D2|
 |D1 |3mm 20mA 2V|power LED|
