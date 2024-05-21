@@ -28,7 +28,7 @@ The PCB is optimzied for JLCPCB. Use the gerber files from the latest release.
 |J2 |DIN 5 Female|https://www.mouser.co.uk/ProductDetail/490-SDS-50J, or similar, almost all DIN5-180 connectors have the same footprint|
 |A1 |PCM1808|ADC module|
 
-A1 is PCM1808 module abvailable on Aliexpres: <https://www.aliexpress.com/item/1005006141604047.html>. 
+A1 is PCM1808 module abvailable on Aliexpress: <https://www.aliexpress.com/item/1005006141604047.html>. 
 There is another PCM1808 module, usually purple which is not compatible with this project.
 The module can be soldered directly or using female pin headers (1x2, 1x5, 1x3).
 
