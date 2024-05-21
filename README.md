@@ -7,7 +7,7 @@ MT-32pi gets the MIDI data and produces I2S data, that are mixed with SFX output
 To get the same result with a real MIDI synth, we need a line driver to get 3.3V logic of the MiSTer to 5V levels of the MIDI interface 
 and ADC with I2S output to digitalize analog audio output from the synth. Connection with MiSTer is though USB 3.0 cable (male-male), the same one as for MT-32pi hat.
 
-## Manufcture
+## Manufacture
 The PCB is optimzied for JLCPCB. Use the gerber files from the latest release. 
 
 ## BOM
@@ -30,7 +30,7 @@ The PCB is optimzied for JLCPCB. Use the gerber files from the latest release.
 
 A1 is PCM1808 module abvailable on Aliexpres: <https://www.aliexpress.com/item/1005006141604047.html>. 
 There is another PCM1808 module, usually purple which is not compatible with this project.
-A1 (PCM 1808) can be soldered directly or using female pin headers (1x2, 1x5, 1x3).
+The module can be soldered directly or using female pin headers (1x2, 1x5, 1x3).
 
 ## Bootstraping the module
 The PCM1808 module needs to be set to master, I2S-24 bits, 48000Hz.
